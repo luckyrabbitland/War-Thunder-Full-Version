@@ -255,4 +255,4 @@ This repository serves as the official landing page for War Thunder. The softwar
 **Get the most recent version of War Thunder today!**
 
 ---
-**Last updated:** 2026-11-05 16:02:14 UTC
+**Last updated:** 2026-11-05 22:29:36 UTC
